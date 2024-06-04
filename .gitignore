@@ -1,6 +1,8 @@
 # fastText models
 cc.*
 
+*.bz2
+
 nohup.out
 
 # Byte-compiled / optimized / DLL files
